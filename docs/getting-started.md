@@ -1,3 +1,5 @@
+![GatorOS Logo](../assets/gator-app.jpg)
+
 # Getting Started with GatorOS
 
 ## Prerequisites

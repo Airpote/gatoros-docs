@@ -1,3 +1,5 @@
+![GatorOS Logo](../../assets/gator-app.jpg)
+
 # Swap App
 
 The Swap App is GatorOS's primary DeFi trading interface, providing access to multiple DEX aggregators for optimal token swaps on the Avalanche network.

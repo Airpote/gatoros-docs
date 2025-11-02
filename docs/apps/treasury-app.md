@@ -1,3 +1,5 @@
+![GatorOS Logo](../../assets/gator-app.jpg)
+
 # Treasury App
 
 The Treasury App provides comprehensive portfolio management and tracking for your Avalanche-based assets, including tokens, liquidity positions, and staked assets.

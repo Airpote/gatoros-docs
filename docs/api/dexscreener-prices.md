@@ -1,3 +1,5 @@
+![GatorOS Logo](../../assets/gator-app.jpg)
+
 # DexScreener Prices API
 
 Get real-time token prices and market data from DexScreener for Avalanche network tokens.

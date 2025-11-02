@@ -1,3 +1,5 @@
+![GatorOS Logo](../../assets/gator-app.jpg)
+
 # Treasury API
 
 Get comprehensive portfolio data including token balances, LP positions, and staking information for a connected wallet.

@@ -1,3 +1,5 @@
+![GatorOS Logo](../../assets/gator-app.jpg)
+
 # API Overview
 
 GatorOS provides a comprehensive REST API for accessing DeFi data, wallet information, and platform features. All endpoints return JSON responses and support CORS for web applications.

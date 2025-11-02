@@ -1,6 +1,8 @@
 # GatorOS Documentation
 
-![Gator Avatar](../gatoor/public/gator-avatar.jpg)
+![GatorOS Logo](./assets/gator-app.jpg)
+
+![GatorOS Desktop](./assets/bg2_desktop.png)
 
 Welcome to the official documentation for **GatorOS** - the operating system for the Gator ecosystem on Avalanche.
 

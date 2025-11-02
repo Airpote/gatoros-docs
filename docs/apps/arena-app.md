@@ -1,3 +1,5 @@
+![GatorOS Logo](../../assets/gator-app.jpg)
+
 # Arena App
 
 The Arena App provides direct integration with the Arena.social platform, bringing social features, community interactions, and Gator token ecosystem management into GatorOS.

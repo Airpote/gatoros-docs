@@ -1,3 +1,5 @@
+![GatorOS Logo](../../assets/gator-app.jpg)
+
 # WAVAX Balance API
 
 Get the WAVAX (Wrapped AVAX) balance for a specific wallet address on the Avalanche network.

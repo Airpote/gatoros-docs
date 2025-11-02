@@ -1,3 +1,5 @@
+![GatorOS Logo](../../assets/gator-app.jpg)
+
 # Development Setup
 
 Complete guide to setting up a development environment for GatorOS.
